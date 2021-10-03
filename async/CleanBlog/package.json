@@ -1,0 +1,26 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "clean blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zekiunyildiz/NodePatika.git"
+  },
+  "author": "zeki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zekiunyildiz/NodePatika/issues"
+  },
+  "homepage": "https://github.com/zekiunyildiz/NodePatika#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
